@@ -1,6 +1,7 @@
 # Import thư viện
 
 import discord
+from change_banner import change_banner
 
 # Tạo sự kiện khi chạy bot
 
