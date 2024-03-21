@@ -22,3 +22,5 @@ response = {
 reply = response.get(content)
 if reply:
   await message.channel.send(reply)
+
+respond()
