@@ -2,6 +2,8 @@
 
 import discord
 import os
+from start import on_ready
+import events
 
 # Khởi tạo bot/client với các intenst
 
