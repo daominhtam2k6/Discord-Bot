@@ -1,6 +1,7 @@
 # Import các thư viện cần thiết
 
 import discord
+import os
 
 # Khởi tạo bot/client với các intenst
 
