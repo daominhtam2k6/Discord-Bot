@@ -19,3 +19,5 @@ async def change_banner():
                 print('Banner was updated!')
             else:
                 print(f'Errors : {response.status}')
+
+change_banner()
