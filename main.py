@@ -4,6 +4,7 @@ import discord
 import os
 from start import on_ready
 import events
+from keep_alive import keep_alive
 
 # Khởi tạo bot/client với các intenst
 
