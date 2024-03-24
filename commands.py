@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 
 # Tạo một lệnh đơn giản
-@commands.slash_command(name = "kiss", decription = "emuach")
+@commands.slash_command(name = "kiss", description = "emuach")
 async def kiss(ctx, member: discord.Member = None):
   if not member:
     member = ctx.author
